@@ -1,0 +1,13 @@
+# Minimal Supabase config. Link your project with:
+#   supabase link --project-ref <your-project-ref>
+project_id = "gps"
+
+[functions.sarvam]
+verify_jwt = true
+
+[functions.search-place]
+verify_jwt = true
+
+[functions.compute-route]
+# Callers must send the project's anon key (Authorization: Bearer <anon key>).
+verify_jwt = true

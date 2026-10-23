@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-unit_converter">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="unit_converter" clip-path="url(#clip-unit_converter)">
+    <path id="cell_merge_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24" d="M84.25-763.5V-789h8.5v17h17v8.5Zm51,0V-772h17v-17h8.5v25.5Zm-33.256-21.994-6.056-5.95,6.056-6.056H80V-806h21.994l-6.056-6.056,6.056-5.95L118.25-801.75Zm41.012,0L126.75-801.75l16.256-16.256,6.056,5.95L143.006-806H165v8.5H143.006l6.056,6.056ZM84.25-814.5V-840h25.5v8.5h-17v17Zm68,0v-17h-17V-840h25.5v25.5Z" transform="translate(-72 852)" fill="#ffbc06"/>
+  </g>
+</svg>
